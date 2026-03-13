@@ -1,5 +1,8 @@
 # 💫 About Me:
-Software Engineer experience in building and deploying ML application on cloud. Proficient in business Intelligence tools, enabling data-driven decision-making for business growth. As a passionate data professional, I continuously stay updated with the latest trends in machine learning and generative AI to deliver cutting-edge analytics solutions.
+Full-Stack Al Engineer experience in building and deploying GenAI-ML application on cloud. Proficient in
+business Intelligence tools, enabling data-driven decision-making for business growth. As a passionate data professional, I continuously stay updated with the latest trends in machine learning and generative Al to deliver cutting-edge analytics solutions.
+
+
 
 
 ## 🌐 Socials:
